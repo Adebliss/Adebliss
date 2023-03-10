@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Blessing Adeyemi
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL, R and Power BI
+- 🌱 Excel, SQL, Tableau, Power BI and R
 - 💞️ Open to opportunities
 - 📫 How to reach me ochaiblessing44@gmail.com
 
